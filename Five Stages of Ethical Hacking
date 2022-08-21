@@ -5,7 +5,7 @@ Five Stages of Ethical Hacking
           -Active - Scanning for ports, services, and vulnerabilities
           -Passive - Google dorking, Social media, etc. (indirect)
           
-2. Scanning and Enumeration
+2. Scanning and Enumeration (Active Recon)
       -Using tools like Nmap, Nessus, and Nikto to actively scan clients; looking for open ports and vulnerabilities
       -Hunting for items of value
       
