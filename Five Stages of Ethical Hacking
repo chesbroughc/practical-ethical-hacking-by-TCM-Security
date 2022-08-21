@@ -1,0 +1,22 @@
+Five Stages of Ethical Hacking
+
+1. Reconnaissance (Information Gathering)
+      Active and Passive:
+          -Active - Scanning for ports, services, and vulnerabilities
+          -Passive - Google dorking, Social media, etc. (indirect)
+          
+2. Scanning and Enumeration
+      -Using tools like Nmap, Nessus, and Nikto to actively scan clients; looking for open ports and vulnerabilities
+      -Hunting for items of value
+      
+3. Gaining Access (Exploitation)
+      -Exploiting a vulnerability to gain access to a machine, network, etc.
+
+4. Maintaining Access
+      -Finding ways to remain inside of a network/machine
+      -Hunting for backdoors
+      
+5. Covering Tracks
+      -Delete accounts you created (cleaning up)
+      -Delete logs you left behind
+      -Delete any malware you uploaded
