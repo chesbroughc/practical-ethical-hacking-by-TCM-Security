@@ -1,0 +1,14 @@
+Information Gathering
+
+1. Passive Recon
+
+  Physical Recon:
+      1. Location Information:
+            -Satellite images, drone recon, building layout (badge readers? break area? security guards? fence?)
+      2. Job Information:
+            -Employees (name, job title, phone number, manager), pictures (desk photos, computer photos, badge photos)
+2. Web/Host Recon
+      1. Target Validation: WHOIS, nslookup, dnsrecon
+      2. Finding Subdomains: Google Fu, dig, nmap, Sublist3r, Bluto, crt.sh
+      3. Fingerprinting: Nmap, Wappalyzer, WhatWeb, BuiltWith, Netcat
+      4. Data Breaches: HaveIBeenPwned, Breach-Parse, WeLeakInfo
