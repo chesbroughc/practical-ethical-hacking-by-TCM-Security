@@ -1,0 +1,36 @@
+*TARGET WAS PICKED FROM BUGCROWD* https://bugcrowd.com/tesla
+
+Tesla
+
+  1. Discovering Email Addresses
+      Tool: https://hunter.io (Premium version allows for exporting emails as a CSV file)
+         1. Common email naming pattern: {f}{last}@tesla.com
+              First 10 Emails found:
+                  - matthew@tesla.com (Alternative Investments)
+                  - knemeth@tesla.com
+                  - tyler_gallery@tesla.com
+                  - houston_gallery@tesla.com
+                  - kkoch@tesla.com
+                  - ksteakley@tesla.com
+                  - pengzhang@tesla.com (Certification Engineer)
+                  - pglaser@tesla.com (Sales Advisor)
+                  - dschwaiger@tesla.com (Enterprise Sales Manager)
+                  - tfreeman@tesla.com (Sales Advisor)
+                  
+      Tool 2: Clearbit Connect (Chrome Extension)
+          -Elon Musk - CEO
+          -Nagesh Saldi - CIO
+          -Oscar Moncada - Directory/Global IT Operations
+          -Cleve Schupp - Head of Marketing
+          -Aaron Kahn - Senior Staff Software Engineer
+          -Antonio Lapuente - Director of Digital Design
+          -Victor Barclay - Senior Manager (Software Engineering)
+          -Javier Verdura - Product Design Director
+          -Anup Karmakar - Senior Manager (Software Engineering)
+          -Drew Baglino - Energy Engineer
+          -Deepesh Bhatia - Staff Data Engineer
+          -Chris Lister - VP Operations
+          -Thomas Roshan - Global Supply Management
+          
+Other Useful Tools:
+  -Email Hippo
